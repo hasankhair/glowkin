@@ -1,5 +1,5 @@
 # Glowkin
-This is Glowkin game, inspired by Pokemon build with Codex. Explore the mini world!
+This is Glowkin game, inspired by Pokemon build with Codex. Explore the mini world and duel the other Glowkin!
 #### Let's play: https://hasankhair.github.io/glowkin/index.html
 <br>
 <div align="center">
